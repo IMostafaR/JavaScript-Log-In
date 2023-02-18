@@ -18,8 +18,8 @@ This is my work assigned by [Route-Academy](https://www.linkedin.com/company/rou
 
 ### Links
 
-- Solution URL: [Code]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Code](https://github.com/IMostafaR/JavaScript-Log-In)
+- Live Site URL: [Live Site](https://imostafar.github.io/JavaScript-Log-In/)
 
 ### Built with
 
